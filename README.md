@@ -7,4 +7,4 @@
 ![precision-fprate.png](images/precision-fprate.png)
 
 
-![punct-percent-distr.png](images/precision-fprate.png)
+![punct-percent-distr.png](images/punct-percent-distr.png)
