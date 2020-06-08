@@ -1,2 +1,5 @@
 # Customer-Review-Text-Classification-in-Spotfire
-Classification of Customer reviews by training Machine Learning models.
+Training and evaluation of Machine Learning models in TIBCO Spotfire for Classification of Customer reviews.
+
+Snippets from the analysis file:
+![precision-fprate.png](images/precision-fprate.png)
