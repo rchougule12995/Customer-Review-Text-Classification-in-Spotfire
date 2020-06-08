@@ -4,7 +4,10 @@
 ### Snippets from the analysis file:
 
 
+![punct-percent-distr.png](images/punct-percent-distr.png)
+
+
 ![precision-fprate.png](images/precision-fprate.png)
 
 
-![punct-percent-distr.png](images/punct-percent-distr.png)
+
